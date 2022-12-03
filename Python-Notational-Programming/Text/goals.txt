@@ -1,1 +1,1 @@
-goals vs expectations
+print('Hello World')
